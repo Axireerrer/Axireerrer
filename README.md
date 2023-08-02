@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Axireerrer
 - 👀 I’m interested in programming and IT
-- 🌱 I’m currently learning Hacking and Penetration Testing
+- 🌱 I’m currently learning Hacking and Penetration Testing and programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Axireerrer
-- 👀 I’m interested in programming and IT
+- 👀 I’m interested in python development and Security Inf 
 - 🌱 I’m currently learning Python Developer
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on companies connected with development and security information.
 - 📫 How to reach me ...
 
 <!---

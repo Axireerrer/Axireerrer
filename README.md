@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Axireerrer
 - 👀 I’m interested in python development and Security Inf 
-- 🌱 I’m currently learning Python Developer
+- 🌱 I’m currently learning Python Developer and I find some commercial experience.
 - 💞️ I’m looking to collaborate on companies connected with development and security information.
 - 📫 How to reach me ...
 

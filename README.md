@@ -4,11 +4,13 @@
 
 ## О себе:
 
-Начинающий backend разработчик на языке Python.
+Начинающий backend разработчик на языке Python. Заинтересован в улучшении своих навыков программирования.
 
 ## Навыки
 
-- Python, Django, Django-ORM, Django REST, SQL, HTML/CSS;
+- Python, Django, Django-ORM, Django REST;
+- SQL, MySQL, PostgreSQL;
+- HTML/CSS;
 - Docker, Git; 
 
 ## Связь

@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Axireerrer
-- 👀 I’m interested in python development and Security Inf 
-- 🌱 I’m currently learning Python Developer and I find some commercial experience.
-- 💞️ I’m looking to collaborate on companies connected with development and security information.
-- 📫 How to reach me ...
+# Привет! Я Женя.Добро пожаловать в мой профиль GitHub!
 
-<!---
-Axireerrer/Axireerrer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## О себе:
+
+Начинающий backend разработчик на языке Python.
+
+## Навыки
+
+- Python, Django, Django-ORM, Django REST, SQL, HTML/CSS;
+- Docker, Git; 
+
+## Связь
+
+- Telegram: https://t.me/Axierrerer
+- Email: antonovevg.2003@gmail.com
+
+### Спасибо за посещение моего профиля!

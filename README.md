@@ -8,8 +8,9 @@ Backend разработчик на языке Python.
 
 ## Навыки
 
-- Python, Django, Django-ORM, Django REST;
-- SQL, MySQL, PostgreSQL;
+- Python, Django, Django REST Framework;
+- SQL, PostgreSQL;
+- Celery, Redis, FLower;
 - HTML/CSS;
 - Docker, Git; 
 

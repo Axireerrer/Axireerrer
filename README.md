@@ -1,22 +1,25 @@
-## Привет! 
+## Hi, I'm Evgeny.
 
-Добро пожаловать в мой профиль GitHub!
+Welcome to my GitHub account.
 
-## О себе:
+## About me:
+ 
+- Junior Backend Developer in Python.
+- In this account you can check my pet-projects and different tasks, that I was doing for get a job. 
 
-Backend разработчик на языке Python. 
+## Skills
 
-## Навыки
-
-- Python, Django, Django REST Framework;
-- SQL, PostgreSQL;
+- Python
+-  Django, Django REST Framework, FastApi;
+- SQL, PostgreSQL, SQLAlchemy;
 - Celery, Redis, FLower;
 - HTML/CSS;
-- Docker, Git; 
+- Docker, Git;
+- requests, htmx, json, asyncio, aiohttp, aiogram.
 
-## Связь
+## You can keep in touch with me:
 
 - Telegram: https://t.me/Axierrerer
 - Email: antonovevg.2003@gmail.com
 
-### Спасибо за посещение моего профиля!
+### Thank you for visiting my account, come again!!!)))

@@ -22,4 +22,4 @@ Welcome to my GitHub account.
 - Telegram: https://t.me/Axierrerer
 - Email: antonovevg.2003@gmail.com
 
-### Thank you for visiting my account, come again!!!)))
+### Thank you for visiting my account !!!

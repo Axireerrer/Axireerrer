@@ -5,7 +5,7 @@ Welcome to my GitHub account.
 ## About me:
  
 - Junior Backend Developer in Python.
-- In this account you can check my pet-projects and different tasks, that I was doing for get a job. 
+- In this account you can check my pet-projects and different tasks, that I did.
 
 ## Skills
 
